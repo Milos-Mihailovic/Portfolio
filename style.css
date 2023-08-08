@@ -71,6 +71,20 @@ p {
   transition-property: background-color, color;
 }
 
+.ctaCL {
+  display: inline-block;
+  padding: 10px 30px;
+  color: #fe7f2d;
+  background-color: transparent;
+  border: 2px solid #fe7f2d;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  margin-top: -17px;
+  transition: 0.3s ease;
+  transition-property: background-color, color;
+}
+
 .cta:hover {
   color: white;
   background-color: #fe7f2d;
