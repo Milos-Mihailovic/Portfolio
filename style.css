@@ -54,6 +54,7 @@ p {
 }
 
 .all-projects span {
+  font-weight: bold;
   color: #233d4d;
 }
 
